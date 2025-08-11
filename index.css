@@ -1,0 +1,27 @@
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-family: Georgia;
+  }
+
+  .nav-item a:hover {
+    background-color: darkgrey;
+  }
+
+  .about p {
+    text-align: justify !important;
+  }
+
+  .about1 h4 {
+    text-align: justify !important;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .about1 p {
+    text-align: justify !important;
+  }
+
+  .btn {
+    justify-content: left;
+  }
